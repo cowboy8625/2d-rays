@@ -1,0 +1,9 @@
+[package]
+name = "rays-2d"
+version = "0.1.0"
+authors = ["Cowboy"]
+edition = "2018"
+
+[dependencies]
+ggez = "0.7.0"
+rand = "0.8.4"
